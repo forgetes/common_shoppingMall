@@ -1,0 +1,20 @@
+
+.title{
+  font-size: 3rem;
+  line-height: 2;
+  margin: 0;
+  color: black;
+  text-align: left;
+  font-weight: 400;
+}
+
+.headline{
+  font-size: 1.3rem;
+  font-weight: 400;
+  margin: 1rem 0;
+  color: black;
+}
+
+.img_stack {
+  width: 100%;
+}
